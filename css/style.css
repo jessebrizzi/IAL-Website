@@ -60,7 +60,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 #slideshow { 
     margin: 50px auto; 
     position: relative; 
-    width: 100%; 
+    width: 90%; 
     height: 400px; 
     padding: 10px; 
     box-shadow: 0 0 20px rgba(0,0,0,0.4); 
