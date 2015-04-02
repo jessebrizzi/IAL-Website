@@ -583,7 +583,7 @@ a.read {
 }
 a.read:hover {
 	color: #fff;
-	background: #68C9AC;
+	background: #a2a3a3;
 }
 .top-blog {
 	padding: 1em 0px;
@@ -1378,5 +1378,11 @@ a.read {
 }
 .grid-team img {
 	width: 53%;
+}
+
+.recent-table {
+	padding: 2cm;
+	width: 100%;
+	border: 1px solid black;
 }
 }
